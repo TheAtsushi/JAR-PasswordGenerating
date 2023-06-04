@@ -6,8 +6,11 @@ This program can generate for you a super safe password.
 * Fully Anonim.
 * Nobody knows what password you generated.
 
-v1.0.0 
-Copyright Atsushi © 2023
+
+>The program may contain bugs, these will be fixed later. 
+
+`v1.0.0`
+
 
 ![PasswordGenerating](https://gcdnb.pbrd.co/images/I2c2hvSFD6xc.png?o=1)
 
